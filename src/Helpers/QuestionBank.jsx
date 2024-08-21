@@ -1,0 +1,42 @@
+export const Questions =[
+    {
+        prompt:" Hook that allows you for having state variables in functional Compoents",
+        optionA:"useState()",
+        optionB:"useCallback()",
+        optionC:"useMemo()",
+        optionD:"None Of Above",
+        answer:"A",
+    },
+    {
+        prompt:"The inputs to a component of React are Known as",
+        optionA:"props",
+        optionB:"parameter",
+        optionC:"function",
+        optionD:"state",
+        answer:"A",
+    },
+    {
+        prompt:" Any change in the property values of the _______ object leads to the re-rendering of the component.",
+        optionA:"component",
+        optionB:"variable",
+        optionC:"state",
+        optionD:"function",
+        answer:"C",
+    },
+    {
+        prompt:"React was created by ",
+        optionA:"Jordan Walke",
+        optionB:"Robinhood",
+        optionC:"Dennis Ritchie",
+        optionD:"salman khan",
+        answer:"A",
+    },
+    {
+        prompt:"india's economy in trillion",
+        optionA:"55",
+        optionB:"3.3",
+        optionC:"1.2",
+        optionD:"5",
+        answer:"B",
+    },
+]
